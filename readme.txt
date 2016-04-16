@@ -1,1 +1,1 @@
-[A[A[B[BFor more information visit www.djangobook.com
+For more information visit www.djangobook.com
